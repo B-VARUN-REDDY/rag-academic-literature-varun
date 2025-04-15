@@ -72,7 +72,7 @@ Video Demo
 Dataset Download
 Since arxiv dataset is >300MB (GitHub Limit), download it here:
 
-📥 [Download arxiv-metadata-oai-snapshot.json from Releases](https://github.com/B-VARUN-REDDY/rag-academic-literature-varun/releases)
+📥 [Download arxiv-metadata-oai-snapshot.json](https://drive.google.com/file/d/17Zu2k2tLn2Qn6cVfiqpzhK6a8g-bJXj1/view?usp=drive_link)
 
 1. Download `arxiv-metadata-oai-snapshot.json`  
 2. Place it inside → `/data` folder
