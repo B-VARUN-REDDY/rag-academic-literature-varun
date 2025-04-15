@@ -13,7 +13,7 @@ if not os.path.exists(input_file_path):
 # Initialize a list to store the extracted records
 records = []
 
-# Define the maximum number of records to process (adjust as needed)
+# Define the maximum number of records to process 
 max_records = 1000
 
 # Open the JSONL file and process line by line

@@ -7,7 +7,7 @@ file_path = r'RAG_Project\data\arxiv-metadata-oai-snapshot.json'
 # Initialize a list to store selected records
 records = []
 
-# Define the maximum number of records to process (adjust as needed)
+# Define the maximum number of records to process
 max_records = 1000
 
 # Open the file and process line by line
